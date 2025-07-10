@@ -56,7 +56,7 @@ to discuss what you would like to change.
 
 Connect with me on:
 
-- [GitHub:] (@Muhammad-Safwan12)
+- [GitHub:] (Muhammad-Safwan12)
 
 # React + Vite
 
