@@ -23,7 +23,22 @@ It features full **authentication**, **CRUD operations**, and a clean responsive
 
 ---
 
-<pre> ## 📁 Project Structure ``` blog-app/ ├── public/ ├── src/ │ ├── components/ │ ├── pages/ │ ├── appwrite/ # Appwrite config and API calls │ ├── App.jsx │ └── main.jsx ├── .env # Appwrite credentials ├── .gitignore ├── index.html ├── vite.config.js └── package.json ``` </pre>
+## 📁 Project Structure
+```
+blog-app/
+├── public/
+├── src/
+│ ├── components/
+│ ├── pages/
+│ ├── appwrite/ # Appwrite config and API calls
+│ ├── App.jsx
+│ └── main.jsx
+├── .env # Appwrite credentials
+├── .gitignore
+├── index.html
+├── vite.config.js
+└── package.json
+```
 
 # 🔐 Authentication Logic (Brief)
 
