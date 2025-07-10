@@ -25,8 +25,8 @@ It features full **authentication**, **CRUD operations**, and a clean responsive
 
 ## 📁 Project Structure
 
-blog-app/
-├── public/
+/ blog-app/
+/├── public/
 ├── src/
 │ ├── components/
 │ ├── pages/
