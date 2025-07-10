@@ -42,11 +42,7 @@ blog-app/
 
 # 🔐 Authentication Logic (Brief)
 
-Users register/login using Appwrite's built-in auth service.
-
-On success, a session is stored and accessed via Appwrite SDK.
-
-Protected routes check for user session before rendering.
+Users register/login using Appwrite's built-in auth service.On success, a session is stored and accessed via Appwrite SDK.Protected routes check for user session before rendering.
 
 # 🤝 Contributing
 
